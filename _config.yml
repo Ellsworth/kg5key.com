@@ -55,9 +55,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Erich Ellsworth"
-  avatar : "/assets/images/nala_square.png"
-  bio    : "Electronics, cars, and amateur radio."
+  name     : "Erich Ellsworth"
+  avatar   : "/assets/images/nala_square.png"
+  location : "Georgetown, Texas. EM10dq"
+  bio      : "Electronics, cars, and amateur radio."
+
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
