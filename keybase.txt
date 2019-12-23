@@ -1,0 +1,36 @@
+================================================================== 
+https://keybase.io/kg5key 
+-------------------------------------------------------------------- I 
+hereby claim:
+  * I am an admin of https://kg5key.com * I am kg5key 
+  (https://keybase.io/kg5key) on keybase. * I have a public key 
+  ASBjygsRw6gtE-m9Nq3jJ38z8sH1pQwGoJwQ2F8dWuun_go
+To do so, I am signing this object: { "body": { "key": { "eldest_kid": 
+      "0120a2b87398a3e199825df237eecdb5ef8e791c95b442835421676d9972433c85520a", 
+      "host": "keybase.io", "kid": 
+      "012063ca0b11c3a82d13e9bd36ade3277f33f2c1f5a50c06a09c10d85f1d5aeba7fe0a", 
+      "uid": "bdd49516220e2958d542601870a86d19", "username": "kg5key"
+    },
+    "merkle_root": { "ctime": 1541647980, "hash": 
+      "0c78138589dd875cf6da3ed9da2b33980668e75d645bc67ae64bce2d5ae37be42f8b916f15606033361f0394be0d0633925179787f0fad8f3e2136de22152fd9", 
+      "hash_meta": 
+      "59df881fd5a11d912046ddaeb664b16c6cd6fe82b0216abca313fddcd86f91d7", 
+      "seqno": 3918862
+    },
+    "service": { "entropy": "ntil4r2p+uCLsgPui+k0AMlF", "hostname": 
+      "kg5key.com", "protocol": "https:"
+    },
+    "type": "web_service_binding", "version": 2
+  },
+  "client": { "name": "keybase.io go client", "version": "2.9.0"
+  },
+  "ctime": 1541648025, "expire_in": 504576000, "prev": 
+  "a432e6408598a21e4e071e613ae2d17a147fce33aeb455585fcd90ef1a614cd8", 
+  "seqno": 43, "tag": "signature"
+}
+which yields the signature: 
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgY8oLEcOoLRPpvTat4yd/M/LB9aUMBqCcENhfHVrrp/4Kp3BheWxvYWTESpcCK8QgpDLmQIWYoh5OBx5hOuLRehR/zjOutFVYX82Q7xphTNjEIABcdscOsJxzRrFHjWfzLVcyZeksLdPG9yiYr3Ss9OEYAgHCo3NpZ8RAiGHqayqXkQyKg7/WVkU5CGrAvKG09zWPxCIOQcn2pQcwEOk1IaeM6pKs94HvjHS23KUi0FcXci6t/q7uGn86BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEaQ4Av8fL7gvi6/FA1oWNTgLDUb6PyXoevEDJk3x8kmo3RhZ80CAqd2ZXJzaW9uAQ== 
+And finally, I am proving ownership of this host by posting or appending 
+to this document. View my publicly-auditable identity here: 
+https://keybase.io/kg5key
+==================================================================
