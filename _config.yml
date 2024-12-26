@@ -25,3 +25,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+
+exclude:
+  - Caddyfile
+  - docker-compose.yml
+  - .cache/
+  - .env

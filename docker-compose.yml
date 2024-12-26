@@ -1,0 +1,30 @@
+services:
+  cloudflared:
+    image: "docker.io/cloudflare/cloudflared:latest"
+    restart: always
+    command: "tunnel --no-autoupdate run"
+    environment:
+      - "TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}"
+
+  caddy:
+    image: "docker.io/library/caddy:2"
+    restart: always
+    cap_add:
+      - NET_ADMIN
+    volumes:
+      - $PWD/Caddyfile:/etc/caddy/Caddyfile
+      - $PWD/.cache/caddy/:/data
+      - $PWD/_site:/var/www/kg5key.com
+
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: jekyll build
+    volumes:
+      - $PWD:/srv/jekyll:Z
+      - $PWD/.cache/jekyll/cache:/usr/local/bundle:Z
+    environment:
+      - JEKYLL_ROOTLESS=true
+
+secrets:
+  kg5keycom_cloudflared:
+    external: true
