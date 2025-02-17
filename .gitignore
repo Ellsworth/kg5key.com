@@ -1,0 +1,5 @@
+# Environment file
+.env
+
+# Zola build directory
+public/
