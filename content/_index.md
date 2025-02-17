@@ -1,5 +1,5 @@
 +++
-title = "KG5KEY"
+title = "KG5KEY.com"
 +++
 
 # Erich Ellsworth, KG5KEY
@@ -10,3 +10,4 @@ title = "KG5KEY"
   - [Mastodon](https://mastodon.radio/@KG5KEY)
 - Research
   - [High-Performance Engineering (HiPE) Research Group @ Texas State University](https://hipe.wp.txstate.edu/)
+- Reach out: erich@kg5key.com [public key](kg5key.asc)
