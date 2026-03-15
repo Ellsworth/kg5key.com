@@ -10,8 +10,5 @@ build_search_index = false
 # From https://github.com/atgumx/no-style-please
 theme = "no-style-please"
 
-[markdown]
-highlight_code = true
-
 [extra]
 author = "Erich Ellsworth, KG5KEY"
