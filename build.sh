@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+set -euo pipefail
+
 main() {
     ZOLA_VERSION=0.22.1
 
@@ -10,4 +12,4 @@ main() {
     ./zola build
 }
 
-set -euo pipefail
+main "$@"
