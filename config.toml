@@ -7,8 +7,13 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+# Whether to generate feeds
+generate_feeds = true
+
 # From https://github.com/atgumx/no-style-please
 theme = "no-style-please"
 
 [extra]
 author = "Erich Ellsworth, KG5KEY"
+list_pages = true
+add_toc = true
