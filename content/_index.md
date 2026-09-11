@@ -12,5 +12,6 @@ title = "KG5KEY.com"
   - [High-Performance Engineering (HiPE) Research Group @ Texas State University](https://hipe.wp.txstate.edu/)
 - Links
   - [WCARC Repeater Telemetry](https://grafana.kg5key.com)
+  - [Texas State University Grades](https://grades.kg5key.com/)
 - [Feed](./atom.xml)
 - Reach out: erich@kg5key.com [public key](kg5key.asc)
