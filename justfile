@@ -3,4 +3,4 @@ default:
     @just dev
 
 dev:
-    zola serve
+    nix-shell -p zola --run "zola serve"
